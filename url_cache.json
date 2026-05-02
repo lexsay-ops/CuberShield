@@ -1,0 +1,58 @@
+{
+  "f5a9597fb08e6ce7863650df8ca17bff": {
+    "url": "http://465436.vip",
+    "result": {
+      "harmless": 51,
+      "malicious": 14,
+      "suspicious": 0,
+      "undetected": 29,
+      "timeout": 0,
+      "total": 94,
+      "permalink": "https://www.virustotal.com/gui/url/aHR0cDovLzQ2NTQzNi52aXA"
+    },
+    "date": "2026-03-01T18:59:49.798455"
+  },
+  "6c087375365582993ca3ed26664f86f4": {
+    "url": "https://tns28.ru/blog/kak-cherez-komandnuyu-stroku-perejti-v-papku-ili-lyuboj-disk",
+    "result": {
+      "harmless": 62,
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 32,
+      "timeout": 0,
+      "total": 94,
+      "permalink": "https://www.virustotal.com/gui/url/aHR0cHM6Ly90bnMyOC5ydS9ibG9nL2thay1jaGVyZXota29tYW5kbnV5dS1zdHJva3UtcGVyZWp0aS12LXBhcGt1LWlsaS1seXVib2otZGlzaw"
+    },
+    "date": "2026-03-01T20:00:18.266014"
+  },
+  "dba51bcc527ba93f7fe03868747280d5": {
+    "url": "https://www.youtube.com/",
+    "result": {
+      "harmless": 66,
+      "malicious": 1,
+      "suspicious": 0,
+      "undetected": 27,
+      "timeout": 0,
+      "total": 94,
+      "permalink": "https://www.virustotal.com/gui/url/aHR0cHM6Ly93d3cueW91dHViZS5jb20v"
+    },
+    "date": "2026-03-01T20:09:57.551473"
+  },
+  "3e8d7f43f7c7f45784ebb05b51fef55a": {
+    "url": "ad8c369becb49eb2ce2406ba7b7bba6c13ad52b5aa996c1316af3dba14c196fa",
+    "result": {
+      "filename": "Презентация_на_тему_глобализация_и_ее_последствия_.pptx",
+      "hash": "ad8c369becb49eb2ce2406ba7b7bba6c13ad52b5aa996c1316af3dba14c196fa",
+      "harmless": 0,
+      "malicious": 0,
+      "suspicious": 0,
+      "undetected": 65,
+      "timeout": 2,
+      "total": 76,
+      "permalink": "https://www.virustotal.com/gui/file/ad8c369becb49eb2ce2406ba7b7bba6c13ad52b5aa996c1316af3dba14c196fa",
+      "scan_date": 1772385155,
+      "meaningful_name": "Презентация_на_тему_глобализация_и_ее_последствия_.pptx"
+    },
+    "date": "2026-03-01T20:16:49.474537"
+  }
+}
